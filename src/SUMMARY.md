@@ -1,5 +1,4 @@
-# Summary
-
+- [Preface](./preface.md)
 - [Introduction](./ch01/index.md)
   - [What is mruby/edge](./ch01/mruby_edge.md)
   - [What is Uzumibi](./ch01/uzumibi.md)
