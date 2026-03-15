@@ -1,2 +1,5 @@
-# uzumibi-book-draft
-Draft file for uzumibi book version 1
+# Beginning Uzumibi
+
+The source code of https://mrubyedge.github.io/beginning-uzumibi/ .
+
+Feedbacks are welcomed!
